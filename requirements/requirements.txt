@@ -1,0 +1,15 @@
+# Core dependencies
+numpy>=1.21.0
+torch>=2.0.0
+matplotlib>=3.5.0
+plotly>=5.5.0
+rich>=10.0.0
+pandas>=1.4.0
+scikit-learn>=1.0.0
+
+# Async support
+asyncio>=3.4.3
+
+# Optional: For interactive notebooks
+jupyter>=1.0.0
+ipywidgets>=7.6.0

@@ -1,0 +1,10 @@
+2024-11-17 23:18:48,266 - INFO - Simulation environment initialized successfully
+2024-11-17 23:18:54,966 - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2024-11-17 23:19:17,808 - INFO - Simulation completed for circular trajectory
+2024-11-17 23:19:17,851 - INFO - Results saved to experiments/run_20241117_231848/circular
+2024-11-17 23:19:23,809 - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2024-11-17 23:19:46,501 - INFO - Simulation completed for figure_eight trajectory
+2024-11-17 23:19:46,539 - INFO - Results saved to experiments/run_20241117_231848/figure_eight
+2024-11-17 23:19:53,184 - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2024-11-17 23:20:15,795 - INFO - Simulation completed for lane_change trajectory
+2024-11-17 23:20:15,816 - INFO - Results saved to experiments/run_20241117_231848/lane_change
