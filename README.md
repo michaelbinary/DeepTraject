@@ -156,7 +156,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 Michael La Rosa
-- Email: michaelbinary010@gmail.com
+- Email: hello@mlarosa.dev
 
 ---
 
